@@ -37,7 +37,7 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/harshacoding/harshacoding/86a87977f72ae5d29011289d5fbb4998e5bb9a08/springboot.svg" width="70" >
+        <img src="https://raw.githubusercontent.com/harshacoding/harshacoding/601ea384fe38e5879086d7252268c026edfaaab7/img/springboot.svg" width="70" >
     </td>
      <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" >
