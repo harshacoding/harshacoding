@@ -11,39 +11,45 @@
 ## 🛠 &nbsp; Tech Stack
 
 
-<table width="100">
+<table >
 <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
+    <td align='center' width="100">
+        <img src="https://skillicons.dev/icons?i=html" width="80">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" >
+    <td align='center' width="100">
+        <img src="https://skillicons.dev/icons?i=css" width="80" >
     </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" >
+     <td align='center' width="100">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="80" >
     </td>
-     <td align='center' width="190">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="70">
+    <td align='center' width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg">
     </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="70" >
+    <td align='center' width="100">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg">
+    </td>
+    <td align='center'  width="100">
+        <img src="https://skillicons.dev/icons?i=angular" width="80">
     </td>
 </tr>
 <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" >
+    <td align='center' width="100">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="120">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
+    <td align='center'  width="100">
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
     </td>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/harshacoding/harshacoding/601ea384fe38e5879086d7252268c026edfaaab7/img/springboot.svg" width="70" >
+    <td align='center' width="100">
+        <img src="https://skillicons.dev/icons?i=spring"width="80">
     </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" >
+    <td align='center' width="100">
+        <img src="https://raw.githubusercontent.com/harshacoding/harshacoding/601ea384fe38e5879086d7252268c026edfaaab7/img/springboot.svg" width="80" >
     </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+     <td align='center' width="100">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" >
+    </td>
+    <td align='center'  width="100">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80">
     </td>
 </tr>
 
